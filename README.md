@@ -20,6 +20,10 @@ https://github.com/ory/keto
 Google's White Paper - 
 https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/
 
+Topaz -
+https://www.youtube.com/watch?v=oW4QRTke-Oc
+https://www.youtube.com/watch?v=qn6c-XNLdqw
+
 ### Slides
 Slide :
 https://slidechef.net/templates/free-mission-impossible-movie-template/
