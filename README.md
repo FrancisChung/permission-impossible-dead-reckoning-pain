@@ -17,17 +17,20 @@ https://zanzibar.academy/
 Ory/Keto, an Open Source version of Zanzibar -
 https://github.com/ory/keto
 
-Google's White Paper - 
+Google's White Paper -\
 https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/
 
-Topaz -
+Topaz -\
 https://www.youtube.com/watch?v=oW4QRTke-Oc
 https://www.youtube.com/watch?v=qn6c-XNLdqw
 
 ### Slides
-Slide :
 https://slidechef.net/templates/free-mission-impossible-movie-template/
 
+### Github
+Topaz - 
+https://github.com/aserto-dev/topaz
+https://github.com/aserto-demo/api-auth
 
 ### Misc Notes
 Black Colour Code : #2d2d2d
