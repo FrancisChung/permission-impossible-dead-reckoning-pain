@@ -1,7 +1,6 @@
-# permission-impossible
-
-### Intro
-All contents for my Programmable Talk for 2025 
+# permission-impossible-dead-reckoning-pain
+Slide Contents for my Programmable Talk for 2025\
+https://www.programmable.tech/speakers/francis-chung
 
 ### Permission Impossible - Dead Reckoning Pain
 
@@ -9,13 +8,11 @@ This is a talk about an alternative way of doing Authorizations using Relationsh
 instead of the traditional Role Based Access Control (RBAC)
 
 I will also briefly introduce Google Zanzibar that was the first global implementation using ReBAC.
+I will also showcase Topaz as an example of a solution where RBAC, ReBAC and ABAC can be used together in a seamless fashion
 
 ### Links : 
 Zanzibar Academy (A good place to start) -
 https://zanzibar.academy/
-
-Ory/Keto, an Open Source version of Zanzibar -
-https://github.com/ory/keto
 
 Google's White Paper -\
 https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/
@@ -36,5 +33,5 @@ https://github.com/aserto-demo/api-auth
 Topaz (Console) -\
 https://console.aserto.com/ui/policies/api-auth/evaluator
 
-### Misc Notes
+### Misc Notes - Slides
 Black Colour Code : #2d2d2d
