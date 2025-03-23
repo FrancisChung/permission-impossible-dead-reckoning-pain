@@ -14,9 +14,6 @@ I will also briefly introduce Google Zanzibar that was the first global implemen
 Zanzibar Academy (A good place to start) -
 https://zanzibar.academy/
 
-Ory/Keto, an Open Source version of Zanzibar -
-https://github.com/ory/keto
-
 Google's White Paper -\
 https://research.google/pubs/zanzibar-googles-consistent-global-authorization-system/
 
