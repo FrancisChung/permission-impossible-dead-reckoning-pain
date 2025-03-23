@@ -1,7 +1,5 @@
-# permission-impossible
-
-### Intro
-All contents for my Programmable Talk for 2025\
+# permission-impossible-dead-reckoning-pain
+Slide Contents for my Programmable Talk for 2025\
 https://www.programmable.tech/speakers/francis-chung
 
 ### Permission Impossible - Dead Reckoning Pain
